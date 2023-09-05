@@ -8,6 +8,8 @@ watermark_text = ''
 new_file = ''
 opacity = 255
 
+# This is a test
+
 def UploadAction():
     global filename
     filename = filedialog.askopenfilename()
